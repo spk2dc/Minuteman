@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nyJO9-eZQ0qvoUkWumbnlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.minlib.net/services#suggest-purchase" CvTextArea="992, 415, 169, 22" CvTextArgument="Choose Your Library" CvType="Text" DesignTimeRectangle="977, 462, 638, 58" DesignTimeScaleFactor="1.25" ElementType="DropDown" FriendlyName="'Choose Your Library'" FullSelectorArgument="&lt;webctrl id='edit-choose-your-library' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='edit-choose-your-library' tag='SELECT' /&gt;" Guid="c404042d-3bd0-4b26-98c0-0bb223adf4d5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Services | MLN' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="302, 766, 638, 225" ElementType="Text" FriendlyName="'Suggest APurchase'" FullSelectorArgument="&lt;webctrl tag='H2' innertext='Suggest A Purchase' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H2' innertext='Suggest A Purchase' check:text='Suggest A&amp;#xA;Purchase' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="71b8de4d199d3d04ad5f0c64a5c81930.png" xmlns="">0Bib76wg3Q0eA32xPKivF1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

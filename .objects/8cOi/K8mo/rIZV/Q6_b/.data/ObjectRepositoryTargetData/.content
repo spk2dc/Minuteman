@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PAkYdDCAT0q3unUUbAKEVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.minlib.net/services#suggest-purchase" DesignTimeRectangle="977, 886, 638, 200" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'TEXTAREA edit-additiona…'" FullSelectorArgument="&lt;webctrl id='edit-additional-comments' tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl id='edit-additional-comments' tag='TEXTAREA' /&gt;" Guid="5e43a277-ad58-420f-8612-bc86505d026b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Services | MLN' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="977, 846, 549, 33" ElementType="Text" FriendlyName="'Please type'" FullSelectorArgument="&lt;webctrl tag='LABEL' innertext='Please type comments or additional information in the space below' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' innertext='Please type comments or additional information in the space below' check:text='Please type comments or additional information in the space below' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3ffee6a0890f6b8e187000c48a682094.png" xmlns="">03O57XC6XKEW2r2ehtj_jMw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

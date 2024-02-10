@@ -1,0 +1,16 @@
+﻿{
+  "Name": "publisher",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "juXCKmHDQUWE91tjIJKeFQ",
+  "Reference": "h3Zitfm-BEOvtRx9xOqQaA/juXCKmHDQUWE91tjIJKeFQ",
+  "ParentRef": "h3Zitfm-BEOvtRx9xOqQaA/rIZVeCQ-RE-m5RsZC5Pv0A",
+  "Created": "2024-02-10T17:05:48.1181007Z",
+  "Updated": "2024-02-10T17:06:59.7190452Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

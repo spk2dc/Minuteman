@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Nzw6oG9Co02-vSR2URdmKQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.minlib.net/services#suggest-purchase" DesignTimeRectangle="977, 1072, 128, 71" DesignTimeScaleFactor="1.25" ElementType="Button" FriendlyName="'Submit'" FullSelectorArgument="&lt;webctrl id='edit-submit' tag='BUTTON' innertext='Submit' /&gt;" FuzzySelectorArgument="&lt;webctrl id='edit-submit' tag='BUTTON' innertext='Submit' check:text='Submit' /&gt;" Guid="8bcfdc87-fa94-4141-b539-1e1d9cae8bdd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Services | MLN' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9113feeb004e80d811b8bd7b5eaf0e90.png" xmlns="">0E57IL6NH60SP8KE4JNgbCw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8cq0PgNFzEKidUp2kf2f1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.minlib.net/services#suggest-purchase" DesignTimeRectangle="977, 797, 310, 67" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'INPUT edit-title'" FullSelectorArgument="&lt;webctrl id='edit-title' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='edit-title' tag='INPUT' /&gt;" Guid="1df6eb75-48e1-4070-aa27-0010e8f9b83a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Services | MLN' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="302, 766, 638, 225" ElementType="Text" FriendlyName="'Suggest APurchase'" FullSelectorArgument="&lt;webctrl tag='H2' innertext='Suggest A Purchase' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H2' innertext='Suggest A Purchase' check:text='Suggest A&amp;#xA;Purchase' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b4771a28cdc7de1ab862682184e70b2d.png" xmlns="">0TlWJEhCVY0esNW7GRS_ynA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

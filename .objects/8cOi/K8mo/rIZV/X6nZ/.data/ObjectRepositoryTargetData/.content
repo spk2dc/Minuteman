@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gvsNWj8OJkqkbWsGj6Q93w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LepdH0UAAAAAFgDgkiIKuxNHvTaxSsPlSMT9vI4&amp;co=aHR0cHM6Ly93d3cubWlubGliLm5ldDo0NDM.&amp;hl=en&amp;type=image&amp;v=x5WWoE57Fv0d6ATKsLDIAKnt&amp;theme=light&amp;size=normal&amp;cb=notakrsw3eu6" DesignTimeRectangle="993, 923, 34, 34" DesignTimeScaleFactor="1.25" FriendlyName="'DIV'" FullSelectorArgument="&lt;webctrl name='a-x3jafcc3bczv' tag='IFRAME' /&gt;&lt;webctrl tag='DIV' parentid='recaptcha-anchor' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl name='a-x3jafcc3bczv' tag='IFRAME' /&gt;&lt;webctrl tag='DIV' parentid='recaptcha-anchor' /&gt;" Guid="58de905d-3565-445c-9e6e-ac82bee208ae" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Services | MLN' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="977, 819, 638, 51" FriendlyName="'CAPTCHA'" FullSelectorArgument="&lt;webctrl tag='LEGEND' innertext='             CAPTCHA           ' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LEGEND' innertext='             CAPTCHA           ' check:text='CAPTCHA' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="484d5dcadd832f167ec06c3d4dd6187d.png" xmlns="">0UiPOf26UX0KqNDmeOynigg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
